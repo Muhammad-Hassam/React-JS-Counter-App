@@ -1,0 +1,11 @@
+.headings{
+    font-size: 4.5em;
+    font-weight: bolder;
+}
+.main-div{
+    margin: 3rem 0 3rem 0;
+    padding-bottom: 3rem;
+    background-color: wheat;
+    border-radius: 2rem;
+    box-shadow: 7px 10px #888888;
+}
